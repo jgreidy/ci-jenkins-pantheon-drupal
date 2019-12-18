@@ -1,0 +1,14 @@
+uuid: b2817d29-f14e-42b0-ab10-34a3f798f9b2
+name: ci-jenkins-pantheon-drupal
+mail: jreidy@cornell.edu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

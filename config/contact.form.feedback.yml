@@ -1,0 +1,14 @@
+uuid: 3af120e9-0bba-47db-984b-12c28d4dd99f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - jreidy@cornell.edu
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
